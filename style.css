@@ -85,6 +85,8 @@ ul { list-style: none; }
 .nav-cta {
   font-family: var(--font-mono);
   font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.3px;
   padding: 8px 16px;
   border: 1px solid var(--blue);
   border-radius: 4px;
