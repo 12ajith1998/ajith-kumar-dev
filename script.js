@@ -1,9 +1,3 @@
-// Set current year dynamically
-const currentYear = new Date().getFullYear();
-document.getElementById("copyright").textContent =
-  `© ${currentYear} Ajith_Kumar`;
-  
-  
 document.addEventListener('DOMContentLoaded', () => {
   const targets = document.querySelectorAll('.section, .log-card, .edu-card, .contact-card, .stack-panel');
 
